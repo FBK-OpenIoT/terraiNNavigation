@@ -1,0 +1,1 @@
+{"batch_size": 16, "epochs": 30, "learning_rate": 0.0003, "optimizer": "Adam", "loss": "gIoU", "img_size": [224, 224], "which_yolo": 11}

@@ -1,0 +1,10 @@
+matplotlib #==3.5.1
+numpy==1.26.1
+pillow==11.1.0
+pycocotools==2.0.8
+tqdm==4.67.1
+scikit-learn==1.6.1
+ultralytics==8.3.76
+tensorflow==2.16.1
+torch==2.3.0
+torchvision==0.18.1

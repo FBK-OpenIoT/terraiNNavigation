@@ -1,0 +1,9 @@
+YOLOv8 - Accuracy: 0.9721, mIoU: 0.9136, F1: 0.9718
+YOLOv11 - Accuracy: 0.9553, mIoU: 0.8598, F1: 0.9483
+MobileNet - Accuracy: 0.9023, mIoU: 0.6991, F1: 0.8887
+YOLOv8 - Average Inference Time: 0.1084 seconds
+YOLOv11 - Average Inference Time: 0.0575 seconds
+MobileNet - Average Inference Time: 0.0165 seconds
+YOLOv8 - Average Memory Usage: 1123.79 MB
+YOLOv11 - Average Memory Usage: 1124.82 MB
+MobileNet - Average Memory Usage: 1125.69 MB
